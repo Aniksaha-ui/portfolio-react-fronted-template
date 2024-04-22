@@ -1,0 +1,541 @@
+
+.home-two .menu-right-area a {
+  color: #0F172B;
+}
+.home-two .menu-right-area .main-menu li.have-submenu::after {
+  color: #0F172B;
+}
+
+
+.loader>span {
+background: #FEA116;
+}
+
+.header-top-area .top-contact-info i {
+color: #FEA116;
+}
+
+.header-top-area a:hover {
+color: #FEA116;
+}
+
+.header-menu-area {
+background-color: #0F172B;
+}
+.home-two .header-top-area {
+background-color: #0F172B;
+}
+.menu-right-area .lang-select .nice-select {
+background: #0F172B;
+}
+.packages-area-v1 .packages-post-item h3.title:hover {
+color: #FEA116;
+}
+.home-two .menu-right-area .lang-select .nice-select {
+  color: #0F172B;
+}
+.home-two .menu-right-area .lang-select .nice-select::after {
+  color: #0F172B;
+}
+
+.menu-right-area .lang-select .nice-select .list li:hover {
+background-color: #0F172B;
+}
+
+.menu-right-area .main-menu li.active-page>a, .menu-right-area .main-menu li.active-page.have-submenu::after, .menu-right-area .main-menu li.have-submenu:hover::after {
+color: #FEA116;
+}
+
+.menu-right-area a:hover {
+color: #FEA116;
+}
+
+.menu-right-area .main-menu li .submenu li a:hover {
+background-color: #0F172B;
+}
+
+.btn {
+background-color: #FEA116;
+}
+
+.btn.filled-btn:hover {
+background-color: #0F172B;
+}
+
+.input-wrap i {
+color: #FEA116;
+}
+
+.nice-select:after {
+color: #FEA116;
+}
+
+.title-gallery .title-gallery-content {
+background-color: #FEA116;
+}
+
+.section-title span.title-top.with-border::before {
+background: #FEA116;
+}
+
+.section-title span.title-top {
+color: #FEA116;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+color: #0F172B;
+}
+
+span.counter-number,
+.fact-num {
+color: #0F172B;
+}
+
+.counter .counter-box i {
+  color: #FEA116;
+}
+
+.single-service-box .service-icon i {
+  color: #FEA116;
+}
+
+.latest-room::after {
+background-color: #0F172B;
+}
+
+.room-arrows span.slick-arrow:hover {
+background-color: #FEA116;
+}
+
+.single-room .room-desc .room-cat, .single-room .room-price {
+background-color: #FEA116;
+}
+
+.single-room .room-desc h4 a {
+color: #0F172B;
+}
+
+.single-room .room-desc h4 a:hover {
+color: #FEA116;
+}
+
+.single-room .room-desc .room-info i {
+color: #FEA116;
+}
+
+.single-service-box:hover {
+background-color: #FEA116;
+border-color: #FEA116;
+}
+
+.single-service-box:hover .service-counter {
+color: #FEA116;
+}
+
+
+
+.cta-section::after {
+background-color: #0F172B;
+}
+
+.cta-section .video-icon a {
+color: #FEA116;
+}
+
+.gallery-box:hover::before {
+border-color: #FEA116;
+}
+
+.gallery-box::after {
+background-color: #0F172B;
+}
+
+.feature-left .feature-list li .feature-icon {
+background-color: #FEA116;
+}
+
+.feature-img .feature-abs-con {
+background-color: #FEA116;
+}
+
+.feature-img:after {
+background-color: #0F172B;
+}
+
+.feedback-section {
+background-color: #0F172B;
+}
+
+.feedback-section .feadback-slide .single-feedback-box:hover::before {
+border-color: #FEA116;
+}
+
+.feedback-section .feadback-slide .single-feedback-box .feedback-author::before {
+background-color: #FEA116;
+}
+
+.feedback-section .feadback-slide ul.slick-dots li.slick-active button {
+border-color: #FEA116;
+}
+
+.feedback-section .feadback-slide ul.slick-dots li button::before {
+background-color: #FEA116;
+}
+
+.primary-bg {
+background-color: #FEA116;
+}
+
+.back-top .back-to-top {
+background: #FEA116;
+}
+
+footer {
+background-color: #0F172B;
+}
+
+footer .widget.footer-widget ul.nav-widget li a:hover {
+color: #FEA116;
+}
+
+footer .widget.footer-widget ul.nav-widget li a::before {
+background: #FEA116;
+}
+
+footer .footer-bottom .footer-nav li:hover a {
+color: #FEA116;
+}
+
+.breadcrumb-area .breadcrumb-content li a {
+color: #FEA116;
+}
+
+.filter-view ul li.active-f-view a, .filter-view ul li:hover a {
+color: #FEA116;
+}
+
+.filter-view ul li::after {
+background-color: #FEA116;
+}
+
+.pagination-wrap li a {
+background-color: #0F172B;
+}
+
+.pagination-wrap li a:hover {
+background-color: #FEA116;
+}
+
+.pagination-wrap li.active a {
+background-color: #FEA116;
+}
+
+.sidebar-wrap .widget .widget-title::after,
+.sidebar-wrap .widget .widget-title::before {
+background-color: #FEA116;
+}
+
+.sidebar-wrap .widget.fillter-widget .slider-range .ui-widget-header {
+background: #FEA116;
+}
+
+.sidebar-wrap .widget.fillter-widget .slider-range .ui-slider.ui-slider-horizontal.ui-widget.ui-widget-content.ui-corner-all {
+border-color: #FEA116;
+}
+
+.sidebar-wrap .widget.fillter-widget .slider-range span.ui-slider-handle.ui-state-default.ui-corner-all {
+border: 1px solid #FEA116;
+background: #FEA116;
+}
+
+.post-thumb .price-tag {
+background-color: #FEA116;
+}
+
+.packages-big-slider .slick-arrow {
+background: #0F172B;
+}
+
+.packages-big-slider .slick-arrow:hover {
+background-color: #FEA116;
+}
+
+
+.room-details-wrapper .main-slider .slick-arrow {
+background: #0F172B;
+}
+
+.room-details-wrapper .main-slider .slick-arrow:hover {
+background-color: #FEA116;
+}
+
+.room-cat a {
+background-color: #FEA116;
+}
+
+.entry-meta li i {
+color: #FEA116;
+}
+
+.room-details-wrapper .room-details-tab .nav.desc-tab-item li a.nav-link.active,
+.room-details-wrapper .room-details-tab .nav.desc-tab-item li a.nav-link:hover {
+color: #FEA116;
+border-color: #FEA116;
+}
+
+.comment-area .comment-list li .comment-desc a.reply-comment:hover {
+color: #FEA116;
+}
+
+.room-details-wrapper .room-details-tab .review-form button:hover {
+background: #0F172B;
+}
+
+.sidebar-wrap .widget.booking-widget .widget-title {
+background-color: #FEA116;
+}
+
+.sidebar-wrap .widget.category-widget .single-cat a:hover {
+color: #FEA116;
+}
+
+.single-service-box.service-white-bg:hover .service-counter {
+color: #FEA116;
+}
+
+.single-service-box.service-white-bg:hover {
+background-color: #FEA116;
+border-color: #FEA116;
+}
+
+.feedback-slider-two ul.slick-dots li button::before {
+background-color: #FEA116;
+}
+
+.feedback-slider-two ul.slick-dots li.slick-active button {
+border-color: #FEA116;
+}
+
+.service-details-section .service-sidebar .widgets h4.widget-title:before,
+.service-details-section .service-sidebar .widgets h4.widget-title:after {
+background-color: #FEA116;
+}
+
+.service-details-section .service-sidebar .service-cat .service-cat-list li a:hover,
+.service-details-section .service-sidebar .service-cat .service-cat-list li a:focus {
+background-color: #FEA116;
+}
+
+.single-blog-wrap .post-thumbnail::before {
+background: #0F172B;
+}
+
+.single-blog-wrap .blog-meta li i {
+color: #FEA116;
+}
+
+.single-blog-wrap h3 a {
+color: #0F172B;
+}
+
+.sidebar-wrap .widget.search-widget {
+background-color: #FEA116;
+}
+
+.sidebar-wrap .widget.recent-news li .recent-post-desc h6 a {
+color: #0F172B;
+}
+
+.sidebar-wrap .widget.recent-news li .recent-post-desc h6 a:hover {
+color: #FEA116;
+}
+
+.comment-title::after,
+.comment-title::before,
+.comment-form-title::after,
+.comment-form-title::before {
+background-color: #FEA116;
+}
+
+.gallery-filter li {
+color: #0F172B;
+}
+
+.gallery-filter li:before {
+color: #FEA116;
+}
+
+.gallery-filter li:hover,
+.gallery-filter li.active {
+color: #FEA116;
+}
+
+.gallery-items .gallery-item::before {
+background-color: #0F172B;
+}
+
+.packages-sidebar .widget h4.widget-title:before,
+.packages-sidebar .widget h4.widget-title:after {
+background-color: #FEA116;
+}
+
+input,
+select,
+textarea,
+.nice-select {
+color: #0F172B;
+}
+
+.packages-area-v1 .packages-sidebar .widget.price_ranger_widget .ui-widget .ui-slider-handle {
+background: #FEA116;
+}
+
+.packages-area-v1 .packages-sidebar .widget.price_ranger_widget .ui-widget .ui-widget-header {
+background: #FEA116;
+}
+
+.packages-area-v1 .packages-post-item .entry-content .post-meta ul li span i,
+.ma-package-section .packages-post-item .entry-content .post-meta ul li span i {
+color: #FEA116;
+}
+
+.packages-details-area .packages-details-wrapper .box-wrap h4.title:after {
+background-color: #FEA116;
+}
+
+.packages-details-area .packages-details-wrapper .schedule-wrapp .single-schedule .icon i {
+background-color: #FEA116;
+}
+
+.packages-details-area .packages-sidebar .information-widget ul.list li:before {
+color: #FEA116;
+}
+
+.feature-accordion .card .card-header button:hover,
+.feature-accordion .card .card-header button.active-accordion {
+background-color: #FEA116;
+}
+
+.feature-accordion .card .card-header button {
+color: #0F172B;
+}
+
+.contact-info-section .contact-info-box .contact-icon {
+background-color: #FEA116;
+}
+
+.contact-info-section .contact-info-box:hover .contact-icon {
+background-color: #0F172B;
+}
+
+.contact-form h2.form-title::after {
+background: #FEA116;
+}
+
+.user-dashboard .user-sidebar .links li a:hover,
+.user-dashboard .user-sidebar .links li.active-menu>a {
+color: #FEA116;
+}
+
+.user-dashboard .main-table .dataTables_wrapper td a.btn {
+border: 1px solid #FEA116;
+}
+
+.user-dashboard .main-table .dataTables_wrapper td a.btn:hover {
+background: #FEA116;
+}
+
+.user-dashboard .main-table .dataTables_wrapper .dataTables_paginate .paginate_button.active .page-link {
+background-color: #FEA116 !important;
+}
+
+.user-dashboard .main-table .dataTables_wrapper .dataTables_paginate .paginate_button .page-link:hover {
+background-color: #FEA116 !important;
+}
+
+.user-dashboard .view-order-page .order-info-area .print .btn {
+background: #FEA116;
+}
+
+.user-dashboard .user-profile-details .edit-info-area .file-upload-area span {
+background: #FEA116;
+}
+
+.user-dashboard .user-profile-details .edit-info-area .btn {
+background: #FEA116;
+}
+
+.hero-section.slider-two .slick-arrow:hover {
+color: #FEA116;
+}
+
+.hero-section.slider-two ul.slick-dots li button::before {
+background-color: #FEA116;
+}
+
+.hero-section.slider-two ul.slick-dots li.slick-active button {
+border-color: #FEA116;
+}
+
+.btn.btn-black {
+background-color: #0F172B;
+}
+
+.single-feature-box .feature-icon::before {
+background: #FEA116;
+}
+
+.latest-room {
+background-color: #0F172B;
+}
+
+.latest-room .shape-three {
+background-color: #FEA116;
+}
+
+.room-box .room-content i {
+color: #FEA116;
+}
+
+.feedback-slider-two .client-name .client-job {
+color: #FEA116;
+}
+
+.single-latest-blog .latest-blog-desc .post-date i {
+color: #FEA116;
+}
+.packages-details-area .packages-details-wrapper .places-box a:hover {
+  background-color: #FEA116;
+}
+.search-widget ul.categories li:hover::before, .search-widget ul.categories li:hover a, .search-widget ul.categories li.active::before, .search-widget ul.categories li.active a {
+  color: #FEA116;
+}
+.single-feature-box .feature-icon i {
+  color: #FEA116;
+}
+.sidebar-wrap .widget.category-widget ul li:hover a,
+.sidebar-wrap .widget.category-widget ul li:hover::before,
+.sidebar-wrap .widget.category-widget ul li.active::before,
+.sidebar-wrap .widget.category-widget ul li.active a {
+  color: #FEA116;
+}
+button.cookie-consent__agree {
+    background-color: #FEA116;
+}
+.error-txt a {
+  background-color: #FEA116;
+  border: 1px solid #FEA116;
+}
+
+.error-txt a:hover {
+  color: #FEA116;
+}
+
+footer .widget.footer-widget .recent-post li::before {
+  color: #FEA116;
+}
